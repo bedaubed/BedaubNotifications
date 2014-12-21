@@ -1,11 +1,9 @@
-directory mode 235
-non directory mode 236
-
-
+directory mode list_directory_movie_playlist
+non directory mode list_movie_playlist
 
 <name>Staael1982 3D Movies</name>
-<link>https://raw.github.com/Coolstreams/bobbyelvis/master/3D.xml</link>
+<link>http://tuzla.watchkodi.com/3D.xml</link>
 <thumbnail>3d</thumbnail>
-<mode>236</mode>
+<mode>list_movie_playlist</mode>
 
 
